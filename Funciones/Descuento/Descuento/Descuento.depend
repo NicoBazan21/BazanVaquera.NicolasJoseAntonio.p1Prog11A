@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1635164262 source:c:\users\bazan\desktop\utn\primer cuatrimestre\programacion i\ejercicios\contar caracteres\descuento\descuento\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1635164262 source:c:\users\bazan\desktop\parcial prog\funciones\descuento\descuento\main.c
+	<stdio.h>
+	<stdlib.h>
+

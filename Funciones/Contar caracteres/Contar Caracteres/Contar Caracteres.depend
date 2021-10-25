@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1635152183 source:c:\users\bazan\desktop\utn\primer cuatrimestre\programacion i\ejercicios\contar caracteres\contar caracteres\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

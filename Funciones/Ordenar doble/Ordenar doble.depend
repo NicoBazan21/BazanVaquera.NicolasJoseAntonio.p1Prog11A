@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1635161010 source:c:\users\bazan\desktop\utn\primer cuatrimestre\programacion i\ejercicios\contar caracteres\ordenar doble\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1635164400 source:c:\users\bazan\desktop\parcial prog\funciones\ordenar doble\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
